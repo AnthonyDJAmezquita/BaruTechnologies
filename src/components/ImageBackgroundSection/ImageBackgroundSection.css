@@ -1,10 +1,21 @@
 .image-background {
   background-size: cover;
   background-position: center;
-  width: 100vw;
+  width: 50vw;
   height: 100vh;
   position: relative;
 }
+
+#overlay2 {
+	background-color: black;
+	background-size: cover;
+	background-position: center;
+	width: 50vw;
+	height: 100vh;
+	position: relative;
+	left: 100%;
+  }
+  
 
 .image-background::before {
   content: '';
@@ -44,6 +55,7 @@
   padding: 0px 10px;
   margin: 0px 15px;
 }
+
 
 .feature-items h6 {
   font-size: 20px;

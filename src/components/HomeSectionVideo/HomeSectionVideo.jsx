@@ -9,11 +9,11 @@ export default function HomeSectionVideo() {
       </video>
       <div className="overlay">
         <div>
-          <h1>Experience Tesla</h1>
-          <h5>Schedule a demo drive today</h5>
+          <h1>Bienvenidos al mundo de la automatización</h1>
+          <h5>Conoce nuestras aplicaciones</h5>
         </div>
         <div>
-          <button>Demo Drive</button>
+          <button>Aplicaciones</button>
         </div>
       </div>
     </div>

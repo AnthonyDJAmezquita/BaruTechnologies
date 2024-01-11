@@ -11,7 +11,7 @@ export default function ImageBackgroundSection({
       className="image-background"
       style={{ backgroundImage: `url(${backgroundImage})` }}
     >
-      <div className="overlay">
+      <div className="overlay" id='overlay2'>
         <div className="top-section">
           <h2>{header}</h2>
           <p>{description}</p>
@@ -28,8 +28,8 @@ export default function ImageBackgroundSection({
             </ul>
           )}
           <div>
-            <button>Order Now</button>
-            <button>Demo Drive</button>
+            <button>Contactenos</button>
+            <button>Version demostrativa</button>
           </div>
         </div>
       </div>

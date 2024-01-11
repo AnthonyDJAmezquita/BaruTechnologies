@@ -24,6 +24,7 @@ body {
 .section {
   height: 100vh;
   scroll-snap-align: start;
+  text-align: justify;
 }
 
 .shop-page {
@@ -36,4 +37,9 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1{
+	color:rgb(255, 255, 255);
+	font-size: 3rem;
 }
