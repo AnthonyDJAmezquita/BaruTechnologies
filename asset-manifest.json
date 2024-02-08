@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.d61b4b53.css",
-    "main.js": "./static/js/main.ac3331ea.js",
-    "static/media/coding.jpg": "./static/media/coding.0cbec54f37f522ea1a04.jpg",
-    "static/media/tesla-vid.mp4": "./static/media/tesla-vid.b926573b19ca5d8e1e19.mp4",
-    "static/media/15630.jpg": "./static/media/15630.f68b88504659f06b4d32.jpg",
-    "static/media/58761.jpg": "./static/media/58761.bf527457c22a0ff91c77.jpg",
-    "static/media/13487.jpg": "./static/media/13487.01200824142fe0a5cf7a.jpg",
-    "static/media/20716.jpg": "./static/media/20716.bb62ee874f46cd27b60e.jpg",
-    "static/media/cybertruck.jpg": "./static/media/cybertruck.1d31ac28dfef84169e75.jpg",
-    "static/media/model-x.jpg": "./static/media/model-x.83a8fb9bb189eaa1d9e5.jpg",
-    "static/media/model-s.jpg": "./static/media/model-s.a18045f9b91533de90c7.jpg",
-    "index.html": "./index.html",
-    "main.d61b4b53.css.map": "./static/css/main.d61b4b53.css.map",
-    "main.ac3331ea.js.map": "./static/js/main.ac3331ea.js.map"
+    "main.css": "/BaruTechnologies/static/css/main.d61b4b53.css",
+    "main.js": "/BaruTechnologies/static/js/main.6074843a.js",
+    "static/media/coding.jpg": "/BaruTechnologies/static/media/coding.0cbec54f37f522ea1a04.jpg",
+    "static/media/tesla-vid.mp4": "/BaruTechnologies/static/media/tesla-vid.b926573b19ca5d8e1e19.mp4",
+    "static/media/15630.jpg": "/BaruTechnologies/static/media/15630.f68b88504659f06b4d32.jpg",
+    "static/media/58761.jpg": "/BaruTechnologies/static/media/58761.bf527457c22a0ff91c77.jpg",
+    "static/media/13487.jpg": "/BaruTechnologies/static/media/13487.01200824142fe0a5cf7a.jpg",
+    "static/media/20716.jpg": "/BaruTechnologies/static/media/20716.bb62ee874f46cd27b60e.jpg",
+    "static/media/cybertruck.jpg": "/BaruTechnologies/static/media/cybertruck.1d31ac28dfef84169e75.jpg",
+    "static/media/model-x.jpg": "/BaruTechnologies/static/media/model-x.83a8fb9bb189eaa1d9e5.jpg",
+    "static/media/model-s.jpg": "/BaruTechnologies/static/media/model-s.a18045f9b91533de90c7.jpg",
+    "index.html": "/BaruTechnologies/index.html",
+    "main.d61b4b53.css.map": "/BaruTechnologies/static/css/main.d61b4b53.css.map",
+    "main.6074843a.js.map": "/BaruTechnologies/static/js/main.6074843a.js.map"
   },
   "entrypoints": [
     "static/css/main.d61b4b53.css",
-    "static/js/main.ac3331ea.js"
+    "static/js/main.6074843a.js"
   ]
 }
