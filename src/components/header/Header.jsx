@@ -5,10 +5,10 @@ import { useRecoilValue } from 'recoil';
 import { cartState } from '../../global-state/cartItems';
 
 export const navElements = [
-  { label: 'PASCALCODE', route: '', style: { marginRight: 'auto' } },
-  { label: 'Sobre nosotros', route: 'model_s' },
-  { label: 'Model X', route: 'model_x' },
-  { label: 'Cybertruck', route: 'cybertruck' },
+  { label: 'BARU', route: '', style: { marginRight: 'auto' } },
+  { label: 'Sobre nosotros', route: 'Nosotros' },
+  { label: 'Nuestras habilidades', route: 'Habilidades' },
+  { label: 'Contactenos', route: 'contactenos' },
   { label: 'Shop', route: 'shop' },
   { label: <ShoppingCartIcon />, route: 'cart', style: { marginLeft: 'auto' } },
   { label: 'Menu', route: null },

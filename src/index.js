@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import HomePage from './pages/HomePage';
-import ModelSPage from './pages/ModelSPage';
-import ModelXPage from './pages/ModelXPage';
-import CyberTruckPage from './pages/CybertruckPage';
+import ModelSPage from './pages/Nosotros';
+import ModelXPage from './pages/Habilidades';
+import CyberTruckPage from './pages/Contactenos';
 import App from './App';
 import ShopPage from './pages/ShopPage';
 import { RecoilRoot } from 'recoil';
@@ -22,7 +22,7 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/model_s',
+    path: '/Nosotros',
     element: (
       <App>
         <ModelSPage />
@@ -30,7 +30,7 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/model_x',
+    path: '/Habilidades',
     element: (
       <App>
         <ModelXPage />
@@ -38,7 +38,7 @@ const router = createBrowserRouter([
     ),
   },
   {
-    path: '/cybertruck',
+    path: '/Contactenos',
     element: (
       <App>
         <CyberTruckPage />

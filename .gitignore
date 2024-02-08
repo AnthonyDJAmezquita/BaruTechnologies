@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+#Directorios
+node_modules/
+dist/
+
+#Archivos
+.env
+.DS_Store

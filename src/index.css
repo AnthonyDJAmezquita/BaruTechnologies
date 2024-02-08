@@ -39,7 +39,16 @@ code {
     monospace;
 }
 
-h1{
-	color:rgb(255, 255, 255);
-	font-size: 3rem;
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: 3rem;
+}
+
+p {
+  padding: 3.5%;
+  text-align: justify;
+}
+
+#NoScroll::-webkit-scrollbar {
+    display: none;
 }

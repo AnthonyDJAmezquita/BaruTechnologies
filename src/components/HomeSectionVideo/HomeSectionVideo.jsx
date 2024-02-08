@@ -1,5 +1,6 @@
 import './HomeSectionVideo.css';
 import teslaVid from '../../assets/tesla-vid.mp4';
+import { Link } from "react-router-dom";
 
 export default function HomeSectionVideo() {
   return (
@@ -8,13 +9,16 @@ export default function HomeSectionVideo() {
         <source src={teslaVid} type="video/mp4" />
       </video>
       <div className="overlay">
-        <div>
+        <div className='typewriter'>
           <h1>Bienvenidos al mundo de la automatización</h1>
           <h5>Conoce nuestras aplicaciones</h5>
         </div>
         <div>
+		<Link to={"/shop" }>
           <button>Aplicaciones</button>
+		</Link>
         </div>
+
       </div>
     </div>
   );
